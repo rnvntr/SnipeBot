@@ -49,7 +49,7 @@ DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/your_webhook_url"
 - Discord Webhook: Create one under Server Settings → Integrations.
 
 ### 🎯 Usage
-##🔹 Run the bot:
+## 🔹 Run the bot:
 ```
 python snipebot.py
 ```
@@ -62,7 +62,7 @@ MONITOR_GPUS = ["5070", "5080", "5090"]  # Select which GPUs to track
 CHECK_INTERVAL = 30  # Time between checks (in seconds)
 ```
 
-###🛑 Troubleshooting
+### 🛑 Troubleshooting
 ## 🛠️ Selenium Errors?
 - Ensure Chrome is installed.
 - Try updating WebDriver:
@@ -75,8 +75,8 @@ pip install --upgrade webdriver-manager
 - Use an App Password for Gmail.
 
 ### 🏆 Future Features (Planned)
-🚀 Support for Other Retailers (Amazon, Best Buy)
-⚡ Telegram Notifications
+- 🚀 Support for Other Retailers (Amazon, Best Buy)
+- ⚡ Telegram Notifications
 🔄 Auto-Restart if Newegg Crashes
 
 ### 💙 Contributing
