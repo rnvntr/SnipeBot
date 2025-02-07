@@ -84,5 +84,3 @@ Want to improve Newegg SnipeBot? Feel free to submit a pull request or suggest f
 
 ## ⚠️ Disclaimer
 🛑 This script is for personal use only. Use responsibly and follow Newegg’s policies.
-
-🔥 Happy Sniping!
