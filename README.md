@@ -48,8 +48,8 @@ DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/your_webhook_url"
 - Gmail Users: Use an App Password.
 - Discord Webhook: Create one under Server Settings → Integrations.
 
-### 🎯 Usage
-## 🔹 Run the bot:
+## 🎯 Usage
+### 🔹 Run the bot:
 ```
 python snipebot.py
 ```
@@ -62,27 +62,27 @@ MONITOR_GPUS = ["5070", "5080", "5090"]  # Select which GPUs to track
 CHECK_INTERVAL = 30  # Time between checks (in seconds)
 ```
 
-### 🛑 Troubleshooting
-## 🛠️ Selenium Errors?
+## 🛑 Troubleshooting
+### 🛠️ Selenium Errors?
 - Ensure Chrome is installed.
 - Try updating WebDriver:
 ```
 pip install --upgrade webdriver-manager
 ```
 
-## 📧 Email Issues?
+### 📧 Email Issues?
 - Check SMTP settings.
 - Use an App Password for Gmail.
 
-### 🏆 Future Features (Planned)
+## 🏆 Future Features (Planned)
 - 🚀 Support for Other Retailers (Amazon, Best Buy)
 - ⚡ Telegram Notifications
 🔄 Auto-Restart if Newegg Crashes
 
-### 💙 Contributing
+## 💙 Contributing
 Want to improve Newegg SnipeBot? Feel free to submit a pull request or suggest features.
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 🛑 This script is for personal use only. Use responsibly and follow Newegg’s policies.
 
 🔥 Happy Sniping!
